@@ -1,0 +1,9 @@
+src_cpp/.vs/
+src_cpp/Debug/
+src_cpp/src_cpp.sln
+src_cpp/src_cpp.vcxproj
+src_cpp/src_cpp.vcxproj.filters
+src_cpp/src_cpp.vcxproj.user
+src_cpp/test.cpp
+src_py/.idea/
+src_py/test.py
