@@ -13,7 +13,7 @@ int main() {
 	int triple = 0;
 	clock_t time;
 
-	const llt N = (1LL << 59) - 1;
+	const llt N = (1LL << 61) - 1;
 	// 같은 수 다른 표현
 	// const llt N = 0x1FFFFFFFFFFFFFFF;
 
